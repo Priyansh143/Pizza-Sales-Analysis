@@ -88,6 +88,8 @@ Two interactive dashboards were developed using Power BI:
 - Sales distribution by category and size
 - Interactive slicers for date range and pizza category
 - Executive-level summary view
+<img width="1349" height="734" alt="home_dashboard" src="https://github.com/user-attachments/assets/5ad91bd8-2a38-4698-bb6d-9f1887e76290" />
+
 
 ### 2. Best & Worst Sellers Dashboard
 - KPI cards for key metrics
@@ -102,6 +104,7 @@ Two interactive dashboards were developed using Power BI:
 - Clear product-level performance comparison
 
 Custom visuals, icons, slicers, and layout design were used to ensure clarity and usability.
+<img width="1351" height="736" alt="productPerformance_dashboard" src="https://github.com/user-attachments/assets/6261e057-0edf-411b-9513-402d99510208" />
 
 ---
 
